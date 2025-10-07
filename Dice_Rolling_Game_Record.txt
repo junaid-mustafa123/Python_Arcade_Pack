@@ -1,0 +1,6 @@
+
+---------------------------------
+GAME NAME : Dice Rolling Game
+USER SCORE : 4
+COMPUTER SCORE : 1
+ATTEMPTS : 8

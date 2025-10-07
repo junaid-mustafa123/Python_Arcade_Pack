@@ -1,0 +1,6 @@
+
+---------------------
+GAME NAME :Lottery Simulator
+ATTEMPTS : 11
+USER SCORE : 4
+COMPUTER SCORE : 4
